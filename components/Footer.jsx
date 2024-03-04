@@ -6,7 +6,7 @@ let currentYear = new Date().getFullYear();
 
 const Footer = () => {
   return (
-    <div className="">
+    <div>
       <div className="bg-[url('/assets/png/footer-bg.png')] bg-cover xl:bg-[length:100%_100%] bg-center bg-no-repeat md:rounded-[32px_32px_0px_0px]">
         <div className="custom_container container mx-auto py-12   px-4 lg:px-3">
           <div className="flex justify-between flex-wrap gap-4">
