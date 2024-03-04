@@ -14,7 +14,8 @@ module.exports = {
         "lightBlack": "#525252",
         "lightGray": "#B5B5B5",
         "DarkBlack": "#080808",
-        "lightOrange": " #D3756B",
+        "lightOrange": "#D3756B",
+        "offWhite": "#F1F1F1",
       },
       fontFamily: {
         "outfit": ['"outfit"', "sans-serif"],

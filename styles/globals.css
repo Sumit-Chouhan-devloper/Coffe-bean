@@ -7,8 +7,33 @@ body {
   font-family: "outfit", "sans-serif";
 }
 
+.text_ellips_coffee {
+  display: -webkit-box;
+  -webkit-box-orient: vertical;
+  -webkit-line-clamp: 3;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.text_ellips_chemex {
+  display: -webkit-box;
+  -webkit-box-orient: vertical;
+  -webkit-line-clamp: 4;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
 @media (min-width: 1024px) {
   .custom_container {
     max-width: 1144px;
+  }
+
+  .text_ellips_chemex {
+    -webkit-line-clamp: 4;
+  }
+
+  .text_ellips_coffee {
+    -webkit-line-clamp: 4;
+
   }
 }

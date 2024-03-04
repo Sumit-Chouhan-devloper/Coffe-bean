@@ -30,20 +30,20 @@ export const BlogData = [
     BlogDate: "September 18, 20230",
     title: "How To Make Pour Over Coffee",
     description:
-      "Pour over coffee sounds complicated, but this coffee brewing process is surprisingly simple and the results can be amazing with just a little practice. If...",
+      "Pour over coffee sounds complicated, but this coffee brewing process is surprisingly simple and the results can be amazing with just a little practice. If you drink a single cup each morning, or want to try different types of coffee, making pour over coffee can be even easier than setting up your home coffee machine (bonus — cleanup takes seconds). And because you’re in control of factors like water temperature and brew time, you can expect amazing flavor in the finished cup.",
   },
   {
     CupImage: coffee2,
     BlogDate: "September 18, 20230",
     title: "How to Make French Press Coffee",
     description:
-      "Pour over coffee sounds complicated, but this coffee brewing process is surprisingly simple and the results can be amazing with just a little practice. If...",
+      "Pour over coffee sounds complicated, but this coffee brewing process is surprisingly simple and the results can be amazing with just a little practice. If you drink a single cup each morning, or want to try different types of coffee, making pour over coffee can be even easier than setting up your home coffee machine (bonus — cleanup takes seconds). And because you’re in control of factors like water temperature and brew time, you can expect amazing flavor in the finished cup.",
   },
   {
     CupImage: coffee3,
     BlogDate: "September 18, 20230",
     title: "How to Make French Press Coffee",
     description:
-      "Pour over coffee sounds complicated, but this coffee brewing process is surprisingly simple and the results can be amazing with just a little practice. If...",
+      "Pour over coffee sounds complicated, but this coffee brewing process is surprisingly simple and the results can be amazing with just a little practice. If you drink a single cup each morning, or want to try different types of coffee, making pour over coffee can be even easier than setting up your home coffee machine (bonus — cleanup takes seconds). And because you’re in control of factors like water temperature and brew time, you can expect amazing flavor in the finished cup.",
   },
 ];
