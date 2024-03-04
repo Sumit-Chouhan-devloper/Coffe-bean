@@ -8,7 +8,7 @@ const Footer = () => {
   return (
     <div className="">
       <div className="bg-[url('/assets/png/footer-bg.png')] bg-cover xl:bg-[length:100%_100%] bg-center bg-no-repeat md:rounded-[32px_32px_0px_0px]">
-        <div className="custom_container container mx-auto py-6 sm:py-8 lg:py-12   px-4 lg:px-3">
+        <div className="custom_container container mx-auto py-12   px-4 lg:px-3">
           <div className="flex justify-between flex-wrap gap-4">
             <div className="w-full md:w-5/12">
               <div className="md:max-w-[378px]">
@@ -29,7 +29,7 @@ const Footer = () => {
               </div>
             </div>
             <div className="w-full md:w-6/12 lg:w-5/12">
-              <div className="flex sm:justify-between flex-wrap gap-7 sm:gap-0">
+              <div className="flex justify-between flex-wrap gap-5  sm:gap-0">
                 <ul>
                   <li className="text-sm md:text-base font-semibold  text-white  transition-all ease-in-out duration-300">
                     Coffees
