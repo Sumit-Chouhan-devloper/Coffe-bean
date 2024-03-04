@@ -1,7 +1,10 @@
 import search from "../../public/assets/png/search.png";
 import database from "../../public/assets/png/database.png";
 import product from "../../public/assets/png/product.png";
-export const serviceData = [
+import coffee1 from "../../public/assets/png/over-coffee.png";
+import coffee2 from "../../public/assets/png/press-coffee.png";
+import coffee3 from "../../public/assets/png/press-coffee-2.png";
+export const ServiceData = [
   {
     icon: search,
     title: "Advanced Search Functionality",
@@ -19,5 +22,28 @@ export const serviceData = [
     title: "High quality products",
     description:
       "We understand the importance of quality when it comes to coffee beans. We are committed to ensuring that the coffee bean varieties featured on our platform meet the highest standards of excellence and authenticity.",
+  },
+];
+export const BlogData = [
+  {
+    CupImage: coffee1,
+    BlogDate: "September 18, 20230",
+    title: "How To Make Pour Over Coffee",
+    description:
+      "Pour over coffee sounds complicated, but this coffee brewing process is surprisingly simple and the results can be amazing with just a little practice. If...",
+  },
+  {
+    CupImage: coffee2,
+    BlogDate: "September 18, 20230",
+    title: "How to Make French Press Coffee",
+    description:
+      "Pour over coffee sounds complicated, but this coffee brewing process is surprisingly simple and the results can be amazing with just a little practice. If...",
+  },
+  {
+    CupImage: coffee3,
+    BlogDate: "September 18, 20230",
+    title: "How to Make French Press Coffee",
+    description:
+      "Pour over coffee sounds complicated, but this coffee brewing process is surprisingly simple and the results can be amazing with just a little practice. If...",
   },
 ];

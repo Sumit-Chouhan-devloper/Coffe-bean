@@ -7,15 +7,18 @@ module.exports = {
   ],
   theme: {
     extend: {
-       fontSize: {
-           "4xxl": "40px",
-         },
-         colors: {
-           "lightBlack": "#525252"
-         },
-         fontFamily: {
-           "outfit": ['"outfit"', "sans-serif"],
-         },
+      fontSize: {
+        "4xxl": "40px",
+      },
+      colors: {
+        "lightBlack": "#525252",
+        "lightGray": "#B5B5B5",
+        "DarkBlack": "#080808",
+        "lightOrange": " #D3756B",
+      },
+      fontFamily: {
+        "outfit": ['"outfit"', "sans-serif"],
+      },
     },
   },
   plugins: [],
