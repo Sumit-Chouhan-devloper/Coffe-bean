@@ -5,8 +5,8 @@ import chemex from "../public/assets/png/chemex-coffee.png";
 const Blog = () => {
   return (
     <div className="container custom_container mx-auto py-12 px-4 lg:px-3">
-      <h2 className="text-center font-medium text-4xxl text-DarkBlack mb-8 lg:mb-12">
-        Latest <span className=" font-extrabold text-lightOrange">Blog</span>
+      <h2 className="text-center font-medium text-4xxl text-DarkBlack mb-8 lg:mb-11">
+        Latest <span className=" font-extrabold text-lightOrange">Blog </span>
         posts
       </h2>
       <div className="flex flex-wrap items-center justify-center">
