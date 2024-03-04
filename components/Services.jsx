@@ -4,7 +4,7 @@ import Image from "next/image";
 
 const Services = () => {
   return (
-    <div className="custom_container container mx-auto py-12 lg:py-14 px-4 lg:px-0">
+    <div className="custom_container container mx-auto py-12 lg:py-14 px-4 lg:px-3">
       <div className="flex flex-wrap justify-center">
         {ServiceData.map((data, index) => (
           <div
